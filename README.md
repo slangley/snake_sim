@@ -1,6 +1,8 @@
 # gravity_sim
 
-A new Flutter project.
+A Flutter Flame implementation of the snake simulation from here:
+
+https://www.youtube.com/watch?v=PGk0rnyTa1U&t=388s
 
 ## Getting Started
 
